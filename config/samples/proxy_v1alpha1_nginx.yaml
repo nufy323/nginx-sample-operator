@@ -1,0 +1,7 @@
+apiVersion: proxy.example.com/v1alpha1
+kind: Nginx
+metadata:
+  name: nginx-sample
+spec:
+  # Add fields here
+  count: 3
